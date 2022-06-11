@@ -1,0 +1,12 @@
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/bin/Debug/net6.0/StreamingContent.Data.deps.json
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/bin/Debug/net6.0/StreamingContent.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/bin/Debug/net6.0/ref/StreamingContent.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/bin/Debug/net6.0/StreamingContent.Data.pdb
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/obj/Debug/net6.0/StreamingContent.Data.csproj.AssemblyReference.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/obj/Debug/net6.0/StreamingContent.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/obj/Debug/net6.0/StreamingContent.Data.AssemblyInfoInputs.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/obj/Debug/net6.0/StreamingContent.Data.AssemblyInfo.cs
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/obj/Debug/net6.0/StreamingContent.Data.csproj.CoreCompileInputs.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/obj/Debug/net6.0/StreamingContent.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/obj/Debug/net6.0/ref/StreamingContent.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Data/obj/Debug/net6.0/StreamingContent.Data.pdb

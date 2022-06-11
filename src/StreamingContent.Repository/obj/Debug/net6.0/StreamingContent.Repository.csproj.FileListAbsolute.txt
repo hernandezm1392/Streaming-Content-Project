@@ -1,0 +1,15 @@
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/bin/Debug/net6.0/StreamingContent.Repository.deps.json
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/bin/Debug/net6.0/StreamingContent.Repository.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/bin/Debug/net6.0/ref/StreamingContent.Repository.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/bin/Debug/net6.0/StreamingContent.Repository.pdb
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/bin/Debug/net6.0/StreamingContent.Data.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/bin/Debug/net6.0/StreamingContent.Data.pdb
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/obj/Debug/net6.0/StreamingContent.Repository.csproj.AssemblyReference.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/obj/Debug/net6.0/StreamingContent.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/obj/Debug/net6.0/StreamingContent.Repository.AssemblyInfoInputs.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/obj/Debug/net6.0/StreamingContent.Repository.AssemblyInfo.cs
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/obj/Debug/net6.0/StreamingContent.Repository.csproj.CoreCompileInputs.cache
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/obj/Debug/net6.0/StreamingContent.Repository.csproj.CopyComplete
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/obj/Debug/net6.0/StreamingContent.Repository.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/obj/Debug/net6.0/ref/StreamingContent.Repository.dll
+/Users/mikeh/ElevenFiftyProjects/ElevenFiftyProjects/dotnetProjects/streamingContent/src/StreamingContent.Repository/obj/Debug/net6.0/StreamingContent.Repository.pdb
